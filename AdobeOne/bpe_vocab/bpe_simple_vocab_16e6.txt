@@ -471,7 +471,7 @@ s al
 f t</w>
 ' re</w>
 ch e
-w ar
+w ar//mani
 t ur
 ati ons</w>
 ac h</w>
